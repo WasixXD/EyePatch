@@ -64,7 +64,7 @@ This graph is based on a file with 77 frames \
 \
 <img src="https://github.com/WasixXD/EyePatch/blob/master/workersGraph.png?raw=true" />
 
-We can observe that the higher the workers working in multiple frames that fast the program execute, making working with a video with a thousand frames simpler and easy to to deal. 
+We can observe that the higher the workers working in multiple frames the fast the program execute, making working with a video with a thousand frames simpler and easy to to deal. 
 
 
 # ▶️ DEMO
