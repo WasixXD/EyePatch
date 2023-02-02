@@ -12,3 +12,4 @@
            \______/                 |__/                                              
 
   ```                                                                                               
+<img src="https://github.com/WasixXD/EyePatch/blob/master/hand_1.gif?raw=true"/>        <img src="https://github.com/WasixXD/EyePatch/blob/master/output_1.gif?raw=true" /> 
