@@ -1,0 +1,25 @@
+{
+  "name": "eyePatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "eye": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^10.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "jimp": "^0.16.2",
+    "spinnies": "^0.5.1"
+  },
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
