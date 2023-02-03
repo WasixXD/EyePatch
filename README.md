@@ -31,7 +31,7 @@ I already made a image to ascii, why not a video converter
 
 
 # How it works? 💼
-So first you pass the video path and the output, then through FFMPEG it split all the video frames and it calculates and separe files for the workers transform the frame into a image containing the ascii art. And for the render it also use FFMPEG via terminal.
+So first you pass the video path and the output, then through FFMPEG it split all the video frames and it calculates and separate files for the workers to transform the frame into a image containing the ascii art. And for the render it also use FFMPEG via terminal.
 
 
 # How to install 🚀
