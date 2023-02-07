@@ -14,7 +14,7 @@
   ```                     
   
 # Brief 📖
-I already made a image to ascii, why not a video converter
+I already made a image to ascii so why not a video converter
 
 
 # Challenges 🐢
